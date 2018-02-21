@@ -10,4 +10,12 @@ These methods are demonstrated with the beetle and ant models, the beetles will 
 
 
 User Controls: 
-This project also uses vector interpolating (Lerping) to allow the user to freely use the scroll wheel for camera control. The user may use the arrow keys to rotate the camera and hit the E key to refocus the camera.
+This project also uses vector interpolating (Lerping) to allow the user to freely use the scroll wheel for camera control. The user may use the arrow keys to rotate the camera, hit the D key to toggle debug mode and hit the E key to refocus the camera.
+
+
+Models:
+All models were not made by me, they were downloaded from these links.
+https://free3d.com/download-page.php?url=ladybug-24883
+https://free3d.com/3d-model/ant-71866.html
+https://free3d.com/download-page.php?url=pizza-normal-and-folded-42133
+
